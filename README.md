@@ -6,7 +6,7 @@
 </p>
 
 <!-- ======================================================== -->
-<!-- ⌨️ 2. ANIMATED MULTI-LINE TYPING TERMINAL (FIXED)         -->
+<!-- ⌨️ 2. ANIMATED MULTI-LINE TYPING TERMINAL                 -->
 <!-- ======================================================== -->
 <div align="center">
   <h3>
@@ -15,7 +15,7 @@
   </h3>
 
   <a href="https://github.com/madanbg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Madan+B+G;Full-Stack+and+Machine+Learning+Developer;Building+AI-Driven+Web+Applications;CPRI+Hackathon+Finalist;Python+•+Flask+•+SQL+•+JavaScript;Always+Learning+and+Innovating+Cool+Stuff" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Hi+there,+I+am+Madan+B+G;Full-Stack+and+Machine+Learning+Developer;Building+AI-Driven+Web+Applications;CPRI+Hackathon+Finalist;Python+-+Flask+-+SQL+-+JavaScript;Always+Learning+and+Innovating+Cool+Stuff" alt="Typing SVG" />
   </a>
 
   <br>

@@ -1,12 +1,12 @@
 <!-- ======================================================== -->
-<!-- 🌊 1. ANIMATED WAVING GRADIENT HEADER BANNER            -->
+<!-- 🌊 1. ANIMATED WAVING GRADIENT HEADER BANNER (FIXED)      -->
 <!-- ======================================================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,35&height=220&section=header&text=Madan%20B%20G&fontSize=65&fontAlignY=38&animation=twinkling&desc=Full-Stack%20%26%20Machine%20Learning%20Developer&descFontSize=20&descAlignY=58" width="100%" alt="Animated Header" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Madan%20B%20G&fontSize=60&fontAlignY=38&desc=Full-Stack%20and%20Machine%20Learning%20Developer&descFontSize=20&descAlignY=58" width="100%" alt="Animated Header" />
+</p>
 
 <!-- ======================================================== -->
-<!-- ⌨️ 2. ANIMATED MULTI-LINE TYPING TERMINAL                -->
+<!-- ⌨️ 2. ANIMATED MULTI-LINE TYPING TERMINAL (FIXED)         -->
 <!-- ======================================================== -->
 <div align="center">
   <h3>
@@ -15,8 +15,10 @@
   </h3>
 
   <a href="https://github.com/madanbg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Machine+Learning+Developer;Building+AI-Driven+Web+Applications;Exploring+Modern+Tech+Stacks+%26+DBMS;CPRI+Hackathon+Finalist+%7C+Python+%7C+Flask+%7C+SQL;Always+Building+%26+Innovating+Cool+Stuff+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Madan+B+G;Full-Stack+and+Machine+Learning+Developer;Building+AI-Driven+Web+Applications;CPRI+Hackathon+Finalist;Python+•+Flask+•+SQL+•+JavaScript;Always+Learning+and+Innovating+Cool+Stuff" alt="Typing SVG" />
   </a>
+
+  <br>
 
   <!-- Animated Glowing Rainbow Divider -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
